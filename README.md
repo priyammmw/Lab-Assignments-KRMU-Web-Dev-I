@@ -1,1 +1,3 @@
 # Lab-Assignments-KRMU-Web-Dev-I
+
+This is a one-page portfolio website developed using semantic HTML, designed to showcase sections such as About, Projects, Skills, and Contact. It includes a hero introduction, a profile image with alt text, a structured skills table, and a functional contact form with labels and placeholders. To improve usability, accessibility features like navigation links and a “Skip to main content” option are also added. This project gave me the opportunity to practice writing clean and semantic code, while focusing on simplicity, accessibility, and scalability. Overall, it reflects my learning journey and growth as a first-semester student exploring web development.
